@@ -1,0 +1,17 @@
+.titles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.title:hover{
+    border-bottom: 1px solid black;
+    font-weight: 500;
+}

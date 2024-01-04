@@ -1,0 +1,10 @@
+.items{
+    width: 60%;
+}
+
+.cards{
+    display:grid;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:center;
+}

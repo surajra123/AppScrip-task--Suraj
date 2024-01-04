@@ -1,0 +1,49 @@
+.foot{
+    background-color: black;
+    color: white;
+    
+}
+
+.col-1-part{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.text{
+    width: 45%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 30px;
+
+}
+
+.button{
+    margin-left: 20px;
+    height: 40px;
+    width: 20%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: black;
+    color: grey;
+    cursor: pointer;
+}
+
+.col-2-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.foot-2{
+    
+    background-color: black;
+    color: white;
+}
+
+.links{
+    margin-top: 20px;
+    margin-left: 70px;
+}
